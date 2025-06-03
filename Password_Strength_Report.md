@@ -25,7 +25,7 @@
 
 **Analysis**: Extremely weak due to being numbers only and following a consecutive pattern - easily guessed.
 
-![Wireshark Capture Screenshot](screehshots/wireshark_capture.png)
+![Test Case 1 Screenshot](screenshots/Test_Case1.png)
 
 ### Test Case 2: Very Weak Password
 **Password**: `pass123`
@@ -43,7 +43,7 @@
 
 **Analysis**: Very weak password due to short length, dictionary word base, and missing character types.
 
-![Wireshark Capture Screenshot](screehshots/wireshark_capture.png)
+![Test Case  Screenshot](screenshots/Test_Case2.png)
 
 ### Test Case 3: Moderate Password
 **Password**: `password@123`
@@ -60,7 +60,7 @@
 
 **Analysis**: Despite being labeled as "Strong" by the tool, this password is relatively weak due to being a common dictionary word with predictable number/symbol substitution.
 
-![Wireshark Capture Screenshot](screehshots/wireshark_capture.png)
+![Test Case 3  Screenshot](screenshots/Test_Case3.png)
 
 ### Test Case 4: Strong Password
 **Password**: `G!v3Me$3cur!ty`
@@ -79,7 +79,7 @@
 
 **Analysis**: Excellent password strength with good character diversity and unpredictable pattern.
 
-![Wireshark Capture Screenshot](screehshots/wireshark_capture.png)
+![Test Case 4 Screenshot](screenshots/Test_Case4.png)
 
 ### Test Case 5: Very Strong Password
 **Password**: `RCB@salacupname2024`
@@ -99,7 +99,7 @@
 
 **Analysis**: Very strong due to length and character diversity, though it contains some predictable elements.
 
-![Wireshark Capture Screenshot](screehshots/wireshark_capture.png)
+![Test Case 5 Screenshot](screenshots/Test_Case5.png)
 
 ## Key Findings
 
