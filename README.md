@@ -55,8 +55,8 @@
 ##  Files in Repository
 
 - `README.md` - This overview document
-- `Password_Strength_Report.md` - Detailed analysis report
-- `screenshots/` - Password meter test results
+- [ Task6_Report.md](Password_Strength_Report.md) - Detailed analysis report
+- [Screenshot](screenshots) - Password meter test results
 
 ##  Learning Outcomes
 
